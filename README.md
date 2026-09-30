@@ -24,6 +24,23 @@ The dashboard was designed to:
 - Microsoft Excel
 - Github
 
+- ## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Screenshot%202026-09-30%20092439.png)
+
+### Patient Analysis
+![Patient Analysis](Screenshot%202026-09-30%20092458.png)
+
+### Hospital Operations
+![Hospital Operations](Screenshot%202026-09-30%20092531.png)
+
+### Financial Performance
+![Financial Performance](Screenshot%202026-09-30%20092602.png)
+
+### Patient Experience
+![Patient Experience](Screenshot%202026-09-30%20092615.png)
+
 ## 📑 Dashboard Pages
 
 ### 1. Executive Overview
